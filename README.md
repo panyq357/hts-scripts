@@ -7,4 +7,4 @@ This directory contains some stand-alone scripts which might be useful.
 - `minimap2_homo_fetch.bash`: fetch sequence from ref FASTA, use minimap2 to find homologous sequence in target FASTA.
 - `gsea_io.R`: some R functions to convert DESeq2 counts and coldata to GCT and CLS files that may suitable for GSEA (not tested).
 - `rename_bigwig_chrom.py`: rename chromesome name in bigwig files.
-
+- `mid_to_vcf.py`: convert `.mid` files (e.g. files in <http://server.ncgr.ac.cn/RiceHap3/Genotype.php>) to `.vcf` files.
